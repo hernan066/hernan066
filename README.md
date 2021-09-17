@@ -16,7 +16,7 @@
 </div>
 
 <br>
-<h2 align="left">:heart: Let's get connected:</h2><br>
+<h2>:heart: Let's get connected:</h2><br>
 
 <div> 
   
